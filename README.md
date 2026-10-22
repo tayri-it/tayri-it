@@ -4,11 +4,13 @@
 <img align = 'right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM5OGVia3p0YzJpaDc0cWNqNTJoeXNmNTJob2tzeG1waHU2NWY3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/giphy.gif' width='270'>
 <br>
 
-I am a 3rd-year **Computer Engineering** student at the **Universidad de La Laguna**. I have a curious mind, which has led me to teach myself ethical hacking.
+I am a 4th-year **Computer Engineering** student at the **Universidad de La Laguna**. I have a curious mind, which has led me to teach myself ethical hacking.
 - 🌱 I’m currently learning ...
 
   - Typescript
   - Node.js
+  - Bash
+    
  ### 🌊 Beyond the Code
 
 When I'm not in front of a terminal, you'll probably find me:
