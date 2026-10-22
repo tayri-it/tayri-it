@@ -15,7 +15,7 @@ I am a 4th-year **Computer Engineering** student at the **Universidad de La Lagu
 
 When I'm not in front of a terminal, you'll probably find me:
 * 🎧 **Listening to music**: It's my fuel for long coding sessions.
-* ☀️ **Chasing the sun**: I live in the Canary Islands, I can't live without the beach and the ocean.
+* ☀️ **Chasing the sun**: I can't live without the beach and the ocean.
 * 📚 **Self-learning**: Always curious about science or new gadgets.   
 <br>
 
